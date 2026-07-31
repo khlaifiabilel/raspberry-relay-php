@@ -97,4 +97,8 @@ any host that can reach the page as able to operate the connected relays.
   example and GPIO 26, but there is no matching form control or complete,
   working temperature feature. No temperature sensor is required for relay
   control.
-- No license file is present in this repository.
+## License
+
+The project is available under the MIT License; see [`LICENSE`](LICENSE). The
+license does not certify a particular wiring arrangement or make this example
+suitable for unattended, Internet-facing, or mains-voltage use.
